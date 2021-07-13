@@ -1,0 +1,27 @@
+"Secciones Pagina
+Inicio --> Foto de fondo, 'bienvenidos a: RVR Ingenieria'
+Acerca de mi --> Aside descripción-foto
+Publicaciones --> Galeria-grid-hiperenlace
+Proyectos --> Carusel (titulo y descripcion)
+Contactame --> Formulario
+Footer
+
+"To-do
+Estilizar navbar
+Definir footer
+
+"Marcas HTML
+'a = Navbar
+'b = Acerca de mi 
+'c = Portafolio
+'d = Carrusel
+'e = Contactame
+'f = Footer 
+
+"Marcas CSS
+'a = Header
+'b = About us
+'c = Galeria
+'d = Carrusel 
+'e = Out Team
+'f = Footer
